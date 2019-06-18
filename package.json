@@ -7,6 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsjoeio/hello-awesome.git"
+  },
+  "type": "module",
   "author": "JavaScript Joe",
   "license": "MIT",
   "publishConfig": {
